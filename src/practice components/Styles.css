@@ -1,0 +1,46 @@
+
+body{
+    background-image: linear-gradient(lightblue, pink, lightyellow);
+    background-repeat: no-repeat;
+    height: 95vh;
+}
+.but1{
+    height: 50px;
+    width: 250px;
+    border-radius: 25px;
+    background-color: lightblue;
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    font-size: 18px;
+}
+.but2{
+    height: 50px;
+    width: 250px;
+    border-radius: 25px;
+    background-color: lightblue;
+    position: absolute;
+    top: 150px;
+    right: 550px;
+    font-size: 18px;
+}
+.container1{
+    height: 350px;
+    width: 550px;
+    border: 2px solid black;
+    background-color: aqua;
+    border-radius: 28px;
+    position: absolute;
+    top: 350px;
+    left: 350px;
+}
+.container2{
+    height: 350px;
+    width: 550px;
+    border: 2px solid black;
+    background-color: blueviolet;
+    border-radius: 28px;
+    position: absolute;
+    top: 350px;
+    right: 350px;
+}
